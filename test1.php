@@ -4,5 +4,9 @@ function first(){
 return;
 
 }
-dsfdsf
+add
+
+function test_branch2_second(){
+return;
+}
 ?>
